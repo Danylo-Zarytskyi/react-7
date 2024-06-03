@@ -1,0 +1,7 @@
+.penis {
+    width: 500px;
+    height: 50px;
+    border: 3px solid black;
+    background-color: white;
+    display: flex;
+}
